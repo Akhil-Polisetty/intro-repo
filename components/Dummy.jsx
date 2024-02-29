@@ -1,0 +1,13 @@
+import React from 'react'
+import './dummy.css'
+const Dummy = () => {
+  return (
+    <div className='tot-cont'>
+        <div className="data-cont">
+            This is my first example of deployment
+        </div>
+    </div>
+  )
+}
+
+export default Dummy
