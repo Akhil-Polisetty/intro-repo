@@ -6,6 +6,7 @@ const Dummy = () => {
         <div className="data-cont">
             This is my first example of deployment
             And also firt git hub
+            <p>I have deployed a project succesfully</p>
         </div>
     </div>
   )
