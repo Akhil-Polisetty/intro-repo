@@ -5,6 +5,7 @@ const Dummy = () => {
     <div className='tot-cont'>
         <div className="data-cont">
             This is my first example of deployment
+            And also firt git hub
         </div>
     </div>
   )
